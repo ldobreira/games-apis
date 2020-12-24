@@ -14,9 +14,10 @@ APIs | Description | Auth | HTTPS |
 | [Dota 2](https://docs.opendota.com/) | Provides information about Player stats , Match stats, Rankings for Dota 2 | No | Yes |
 | [Dungeons and Dragons](http://www.dnd5eapi.co/) | Reference for 5th edition spells, classes, monsters, and more | No | No |
 | [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | `OAuth` | Yes |
-| [FreeToGame API](https://www.freetogame.com/api-doc) | Free-to-play games database | No | Yes |
+| [FreeToGame](https://www.freetogame.com/api-doc) | Free-to-play games database | No | Yes |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes |
 | [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | `apiKey` | Yes |
+| [GamerPower](https://www.gamerpower.com/api-read) | Game giveaways tracker | No | Yes |
 | [Giant Bomb](https://www.giantbomb.com/api/documentation) | Video Games | No | Yes |
 | [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main) | Guild Wars 2 Game Information | `apiKey` | Yes |
 | [Halo](https://developer.haloapi.com/) | Halo 5 and Halo Wars 2 Information | `apiKey` | Yes |

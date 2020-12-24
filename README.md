@@ -38,6 +38,7 @@ APIs | Description | Auth | HTTPS |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | `OAuth` | Yes |
 | [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | `apiKey` | Yes |
+| [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Yes |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | Yes |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | Yes |
 

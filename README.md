@@ -24,7 +24,7 @@ APIs | Description | Auth | HTTPS |
 | [Hearthstone](http://hearthstoneapi.com/) | Hearthstone Cards Information | `X-Mashape-Key` | Yes |
 | [Hypixel](https://api.hypixel.net/) | Hypixel player stats | `apiKey` | Yes |
 | [Hytale](https://hytale-api.com/) | Hytale blog posts and jobs | No | Yes | 
-| [IGDB.com](https://api.igdb.com/) | Video Game Database | `apiKey` | Yes |
+| [IGDB](https://www.igdb.com/api) | Video Game Database | `apiKey` | Yes |
 | [Jservice](http://jservice.io) | Jeopardy Question Database | No | No | 
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | No | No |
 | [Marvel](http://developer.marvel.com) | Marvel Comics | `apiKey` | No |

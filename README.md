@@ -1,7 +1,6 @@
 # Games APIs
 A list of Games APIs and Gaming related APIs.
 
-## Games & Gaming Related
 APIs | Description | Auth | HTTPS |
 |---|---|---|---|
 | [Age of Empires II](https://age-of-empires-2-api.herokuapp.com) | Get information about Age of Empires II resources | No | Yes |

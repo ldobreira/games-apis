@@ -1,2 +1,2 @@
-# games-apis
-Games APIs &amp; Gaming Related APIs List
+# Games APIS
+A list of Games APIs and Gaming related APIs.

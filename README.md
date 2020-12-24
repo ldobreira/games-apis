@@ -34,6 +34,7 @@ APIs | Description | Auth | HTTPS |
 | [PlayerUnknown's Battlegrounds](https://pubgtracker.com/site-api) | PUBG Stats | `apiKey` | Yes |
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Yes |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Yes |
+| [RAWG](https://rawg.io/apidocs) | Video Games Database API | `apiKey` | Yes |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | `apiKey` | Yes |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | `OAuth` | Yes |
